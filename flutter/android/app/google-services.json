@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "221480173389",
+    "project_id": "rental-busana",
+    "storage_bucket": "rental-busana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221480173389:android:de72b5f38db281dd464104",
+        "android_client_info": {
+          "package_name": "com.example.rental_busana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221480173389-3chtcoj86hsof73rb20nknrq2jjib5d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rental_busana",
+            "certificate_hash": "121b215ef63d64163481ae79dd1867f51e5c5bb9"
+          }
+        },
+        {
+          "client_id": "221480173389-jk486uuijttre4ppnihikaffnavikntk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaEC8fpwnr_qsGN2HwwN9x3_EZ3yyuOMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221480173389-jk486uuijttre4ppnihikaffnavikntk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221480173389-p165qk0g5glbih026g2dn162pec9bjjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rentalBusana.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
